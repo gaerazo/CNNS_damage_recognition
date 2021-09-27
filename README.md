@@ -1,3 +1,5 @@
+Author: gaerazo
+
 # CNNS_damage_recognition
 Damage recognition with siamese convolutional neural network
 
